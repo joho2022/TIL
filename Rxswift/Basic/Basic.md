@@ -1,6 +1,6 @@
 # RxSwift
 <br/><br/><br/><br/>
-```
+```Swift
 import Foundation //기본 프레임워크다.
 import RxSwift
 
