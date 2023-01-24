@@ -11,6 +11,8 @@
 
 - [Trait](./Rxswift/Trait/Traits.md)
 
+- [TransformingOperators](./Rxswift/TransformingOperators/TransformingOperators.md)
+
 ### UITextView
 - [placeholder](./UITextView/placeholder/placeholder.md)
 
