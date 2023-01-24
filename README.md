@@ -2,7 +2,7 @@
 # Today I Learned 😙
 
 ---
-### Rxswift
+### [Rxswift](./Rxswift/Traits.md)
 - [Basic](./Rxswift/Basic/Basic.md)
 
 ### UITextView
