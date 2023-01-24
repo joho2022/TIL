@@ -2,7 +2,7 @@
 # Today I Learned 😙
 
 ---
-### [Rxswift](./Rxswift/aaaa.md)
+### Rxswift
 - [Basic](./Rxswift/Basic/Basic.md)
 
 - [FilteringOperator](./Rxswift/FilteringOperator/FilteringOperator.md)
