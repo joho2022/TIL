@@ -5,6 +5,8 @@
 ### Rxswift
 - [Basic](./Rxswift/Basic/Basic.md)
 
+- [CombiningOperators](./Rxswift/CombiningOperators/CombiningOperators.md)
+
 - [FilteringOperator](./Rxswift/FilteringOperator/FilteringOperator.md)
 
 - [Subjects](./Rxswift/Subjects/Subjects.md)
