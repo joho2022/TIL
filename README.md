@@ -11,6 +11,8 @@
 
 - [Subjects](./Rxswift/Subjects/Subjects.md)
 
+- [TimeBasedOperators](./Rxswift/TimeBasedOperators/TimeBasedOperators.md)
+
 - [Trait](./Rxswift/Trait/Traits.md)
 
 - [TransformingOperators](./Rxswift/TransformingOperators/TransformingOperators.md)
